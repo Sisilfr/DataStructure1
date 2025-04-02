@@ -46,6 +46,5 @@ Aplikasi ini bertujuan untuk mensimulasikan sistem antrian di bank atau rumah sa
 
 ## Panduan Penggunaan
 
-1.  Clone repositori ini: `git clone https://de.wikipedia.org/wiki/Repositorium`
-2.  Compile kode C++ menggunakan compiler C++ (g++): `g++ *.cpp -o aplikasi`
-3.  Jalankan aplikasi: `./aplikasi`
+1.  Compile kode C++ menggunakan compiler C++ (g++): `g++ *.cpp -o aplikasi`
+2.  Jalankan aplikasi: `./aplikasi`
